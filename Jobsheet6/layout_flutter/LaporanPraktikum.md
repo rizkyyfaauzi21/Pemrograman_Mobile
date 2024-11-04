@@ -65,3 +65,4 @@
 ![alt text](image-18.png)
 
 ### Tugas Praktikum 2
+![alt text](image-19.png)
