@@ -1,6 +1,5 @@
-### Nama    : Muhammad Rizky Fauzi
-### Kelas   : TI-3B / 21
+### Muhammad Rizky Fauzi
+### TI-3B / 21
 
-# 09 | Kamera
-## Praktikum 1
-### Langkah 1:
+## Hasil Praktikum 1
+![alt text](image.png)
