@@ -10,5 +10,7 @@
 ![alt text](image.png)
 
 ### Soal 3
+- substring(0, 450) mengambil potongan teks dari indeks ke-0 hingga ke-449.
+- .catchError((_) { ... }) digunakan untuk menangani error yang terjadi selama proses getData().        
 
-### Soal 4
+![alt text](image-2.png)
