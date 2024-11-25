@@ -32,3 +32,11 @@
 ## Praktikum 4
 ### Soal 7
 ![alt text](image-7.png)
+
+### Soal 8
+- Pada langkah 1, kode menggunakan FutureGroup<int>, yang memungkinkan penambahan Future secara bertahap sebelum ditutup dengan futureGroup.close(), kemudian menunggu hingga semua Future selesai untuk menghitung total.
+- Pada langkah 4, kode menggunakan Future.wait<int>(), yang lebih ringkas karena langsung menunggu semua Future dalam daftar (returnOneAsync(), returnTwoAsync(), returnThreeAsync()) selesai secara bersamaan tanpa perlu penambahan Future secara manual atau pemanggilan .close().
+
+## Praktikum 5
+### Soal 9
+![alt text](image-8.png)
