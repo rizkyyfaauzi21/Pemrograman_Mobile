@@ -28,3 +28,7 @@
 ### Soal 6
 ![alt text](image-6.png)
 - Perbedaan antara langkah 2 dan langkah 5-6 ada di Error Handler. Pada langkah 2, method calculate() hanya menyelesaikan Future dengan nilai 42 setelah 5 detik tanpa penanganan error. Sementara itu, pada langkah 5, calculate() menggunakan blok try-catch, sehingga jika terjadi error, completer.completeError({}) akan dipanggil untuk menandai Future sebagai gagal. Di langkah 6, onPressed() diperbarui untuk menangani keberhasilan dengan then() yang menampilkan hasil, atau catchError() untuk menampilkan pesan error, sehingga aplikasi dapat menampilkan respons yang sesuai tergantung pada apakah Future berhasil atau gagal.
+
+## Praktikum 4
+### Soal 7
+![alt text](image-7.png)
